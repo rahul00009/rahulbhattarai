@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "fluid"
+		},
+		{
+			"path": "icon"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "slideimg"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hotel1"
+	}
+}
